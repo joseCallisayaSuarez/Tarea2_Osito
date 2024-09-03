@@ -1,0 +1,134 @@
+*{
+    margin: 0px;
+}
+.oreja1{
+    background-color: rgb(29, 252, 241);
+    width: 50px;
+    height: 50px;
+    position: relative;
+    border-radius: 25px;
+    top: 120px;
+    left: 220px;
+}
+.oreja2{
+    background-color: rgb(29, 252, 241);
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    border-radius: 25px;
+    top: 160px;
+    left: 370px;
+}
+.caja1{
+    background-color: rgb(76, 0, 255);
+    width: 200px;
+    height: 200px;
+    position: relative;
+    border-radius: 100px;
+    top: 100px;
+    left: 220px;
+}
+.ojo1{
+    background-color: rgb(224, 0, 0);
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    border-radius: 15px;
+    top: 30px;
+    left: 50px;
+}
+.ojo2{
+    background-color: rgb(224, 0, 0);
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    border-radius: 15px;
+    top: 30px;
+    left: 100px;
+}
+.nariz{
+    background-color: rgb(224, 0, 0);
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    border-radius: 10px;
+    top: 90px;
+    left: 80px;
+}
+.boca{
+    background-color: rgb(224, 0, 0);
+    width: 100px;
+    height: 20px;
+    position: relative;
+    border-radius: 10px;
+    top: 150px;
+    left: 50px;
+}
+.boca1{
+    background-color: rgb(0, 0, 0);
+    width: 80px;
+    height: 10px;
+    position: absolute;
+    border-radius: 40px;
+    margin:5px;
+    
+}
+.caja2{
+    background-color: rgb(76, 0, 255);
+    width: 250px;
+    height: 250px;
+    position: relative;
+    border-radius: 125px;
+    top: 100px;
+    left: 200px;
+}
+.panza{
+    background-color: rgb(38, 29, 58);
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: 30px;
+    left: 20px;
+    border-radius: 100px;
+    
+}
+.mano1{
+    background-color: rgb(29, 252, 241);
+    width: 60px;
+    height: 60px;
+    position: relative;
+    border-radius: 30px;
+    top: 70px;
+    left: 390px;
+
+}
+.mano2{
+    background-color: rgb(29, 252, 241);
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    border-radius: 30px;
+    top: 610px;
+    left: 200px;
+
+}
+.mano3{
+    background-color: rgb(29, 252, 241);
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    border-radius: 30px;
+    top: 380px;
+    left: 420px;
+
+}
+.mano4{
+    background-color: rgb(29, 212, 203);
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    border-radius: 30px;
+    top: 380px;
+    left: 175px;
+
+}
